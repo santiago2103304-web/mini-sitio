@@ -1,6 +1,4 @@
-# mini-sitio
 # Mini-Sitio
-
 Mini-sitio de práctica para aprender Git y GitHub.
 
 ## Qué contiene

@@ -15,3 +15,5 @@ Mini-sitio de práctica para aprender Git y GitHub.
 
 ## Autor
 - Tu nombre
+
+"Este cambio es para el PR de prueba."
